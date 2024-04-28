@@ -9,7 +9,10 @@ numerous cybersecurity resources.
 
 when the script is done installing
 
-**Move to the /usr/local/bin/** folder and create a file using ```sudo nano containers2``` 
+**Move to the /usr/local/bin/** folder and create a file using
+```
+sudo nano containers2
+``` 
 
 **Paste this stript**
 
@@ -58,7 +61,14 @@ docker ps --format "table {{.Names}}\t{{.Ports}}\t{{.Status}}"
 
 ```
 
-after that you must change the file permissions using ```sudo chmod +x containers2```  go to home and type ```containers2```
+after that you must change the file permissions using
+```
+sudo chmod +x containers2
+```
+go to home and type
+```
+containers2
+```
 this will list all the containers with their addresses and ports they run on
 like this
 

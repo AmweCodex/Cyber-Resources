@@ -4,11 +4,11 @@
 
 [**S1REN's COMMON**](Breakouts/COMMON.md)
 
-[Reverse shells](Breakouts/Reverse%shells.md)
+[Reverse shells](Breakouts/Reverse%20shells.md)
 
 [CVE’s](Breakouts/CVE’s.md)
 
-[**Privilege Escalation**](Breakouts/Privilege%Escalation.md)
+[**Privilege Escalation**](Breakouts/Privilege%20Escalation.md)
 
 [Tools](Breakouts/Tools.md)
 

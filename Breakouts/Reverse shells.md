@@ -1,0 +1,17 @@
+# Reverse shells
+
+[Python](Reverse%20shells%2074e04dd93f214933b90684755c59128c/Python%20b3d9cad1a4074a928edf794fcdfef094.md)
+
+[**nc**](Reverse%20shells%2074e04dd93f214933b90684755c59128c/nc%20a5e93168b7cc4815bfb88dbcc654d67d.md)
+
+[**bash**](Reverse%20shells%2074e04dd93f214933b90684755c59128c/bash%20072b612492fc46cf8ce32e648fbbf054.md)
+
+[**php**](Reverse%20shells%2074e04dd93f214933b90684755c59128c/php%20e80c02429691429d93357d9847a0455d.md)
+
+[**perl**](Reverse%20shells%2074e04dd93f214933b90684755c59128c/perl%205d42d845aa594546bc1aedf8b0bd890d.md)
+
+[**vim**](Reverse%20shells%2074e04dd93f214933b90684755c59128c/vim%205952a9f00a4f45e18bd97e9b822267e1.md)
+
+[**socat**](Reverse%20shells%2074e04dd93f214933b90684755c59128c/socat%20d2c65b28170b4877a7668714aae7ecfe.md)
+
+[**telnet**](Reverse%20shells%2074e04dd93f214933b90684755c59128c/telnet%200818df4aac9f45a78eeb61948725acad.md)

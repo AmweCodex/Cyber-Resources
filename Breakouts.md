@@ -2,17 +2,15 @@
 
 ==============================================================================
 
-[**S1REN's COMMON**](Breakouts%20aa384a6dbd3148b0a7253068e5543f23/S1REN's%20COMMON%2073a5b9df4b6c42d8a7c6643f8e065ab8.md)
+[**S1REN's COMMON**](Breakouts/COMMON.md)
 
-[Reverse shells](Breakouts%20aa384a6dbd3148b0a7253068e5543f23/Reverse%20shells%2074e04dd93f214933b90684755c59128c.md)
+[Reverse shells](Breakouts/Reverse shells.md)
 
-[CVE’s](Breakouts%20aa384a6dbd3148b0a7253068e5543f23/CVE%E2%80%99s%2074afdf94a1084e348fc958f723029293.md)
+[CVE’s](Breakouts/CVE’s.md)
 
-[**Privilege Escalation**](Breakouts%20aa384a6dbd3148b0a7253068e5543f23/Privilege%20Escalation%209d59e4cc21814a8e8c6c9373eb9e336a.md)
+[**Privilege Escalation**](Breakouts/Privilege Escalation.md)
 
-[Tools](Breakouts%20aa384a6dbd3148b0a7253068e5543f23/Tools%20c933d5b016ca41a3bba9074c47715a3e.md)
-
-[-rbash](Breakouts%20aa384a6dbd3148b0a7253068e5543f23/-rbash%2029cefa0bc95c46d78add7b66e67f2396.md)
+[Tools](Breakouts/Tools.md)
 
 ===============================================================================
 

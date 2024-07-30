@@ -17,6 +17,7 @@
 2. Websites
 	* [TryHackMe](https://tryhackme.com/)
 	* [HackTheBox](https://hackthebox.com/)
+	* [WebSploit](https://websploit.org)
 
 3. Github repos
    	* [The-Art-of-Hacking](https://github.com/The-Art-of-Hacking/h4cker)
